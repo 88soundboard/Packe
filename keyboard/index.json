@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "jis",
+    "name": "JIS",
+    "file": "jis.json"
+  },
+  {
+    "id": "us",
+    "name": "US",
+    "file": "us.json"
+  }
+]
