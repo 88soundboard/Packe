@@ -1,8 +1,153 @@
 [
   {
+    "code": "af-ZA",
+    "label": "Afrikaans (South Africa)",
+    "file": "af-ZA.json"
+  },
+  {
+    "code": "am-ET",
+    "label": "አማርኛ (ኢትዮጵያ)",
+    "file": "am-ET.json"
+  },
+  {
+    "code": "ar-AE",
+    "label": "العربية (الإمارات)",
+    "file": "ar-AE.json"
+  },
+  {
+    "code": "ar-BH",
+    "label": "العربية (البحرين)",
+    "file": "ar-BH.json"
+  },
+  {
+    "code": "ar-DZ",
+    "label": "العربية (الجزائر)",
+    "file": "ar-DZ.json"
+  },
+  {
+    "code": "ar-EG",
+    "label": "العربية (مصر)",
+    "file": "ar-EG.json"
+  },
+  {
+    "code": "ar-IQ",
+    "label": "العربية (العراق)",
+    "file": "ar-IQ.json"
+  },
+  {
+    "code": "ar-JO",
+    "label": "العربية (الأردن)",
+    "file": "ar-JO.json"
+  },
+  {
+    "code": "ar-KW",
+    "label": "العربية (الكويت)",
+    "file": "ar-KW.json"
+  },
+  {
+    "code": "ar-LB",
+    "label": "العربية (لبنان)",
+    "file": "ar-LB.json"
+  },
+  {
+    "code": "ar-MA",
+    "label": "العربية (المغرب)",
+    "file": "ar-MA.json"
+  },
+  {
+    "code": "ar-OM",
+    "label": "العربية (عُمان)",
+    "file": "ar-OM.json"
+  },
+  {
+    "code": "ar-QA",
+    "label": "العربية (قطر)",
+    "file": "ar-QA.json"
+  },
+  {
+    "code": "ar-SA",
+    "label": "العربية (السعودية)",
+    "file": "ar-SA.json"
+  },
+  {
+    "code": "ar-TN",
+    "label": "العربية (تونس)",
+    "file": "ar-TN.json"
+  },
+  {
+    "code": "ar-YE",
+    "label": "العربية (اليمن)",
+    "file": "ar-YE.json"
+  },
+  {
+    "code": "az-AZ",
+    "label": "Azərbaycanca (Azərbaycan)",
+    "file": "az-AZ.json"
+  },
+  {
+    "code": "be-BY",
+    "label": "Беларуская (Беларусь)",
+    "file": "be-BY.json"
+  },
+  {
+    "code": "bg-BG",
+    "label": "Български (България)",
+    "file": "bg-BG.json"
+  },
+  {
+    "code": "bn-BD",
+    "label": "বাংলা (বাংলাদেশ)",
+    "file": "bn-BD.json"
+  },
+  {
+    "code": "bn-IN",
+    "label": "বাংলা (ভারত)",
+    "file": "bn-IN.json"
+  },
+  {
+    "code": "bs-BA",
+    "label": "Bosanski (Bosna i Hercegovina)",
+    "file": "bs-BA.json"
+  },
+  {
+    "code": "ca-ES",
+    "label": "Català (Espanya)",
+    "file": "ca-ES.json"
+  },
+  {
+    "code": "cs-CZ",
+    "label": "Čeština (Česko)",
+    "file": "cs-CZ.json"
+  },
+  {
+    "code": "cy-GB",
+    "label": "Cymraeg (Y Deyrnas Unedig)",
+    "file": "cy-GB.json"
+  },
+  {
+    "code": "da-DK",
+    "label": "Dansk (Danmark)",
+    "file": "da-DK.json"
+  },
+  {
     "code": "de",
     "label": "Deutsch",
     "file": "de.json"
+  },
+  {
+    "code": "de-AT",
+    "label": "Deutsch (Österreich)",
+    "file": "de-AT.json"
+  },
+  {
+    "code": "de-CH",
+    "label": "Deutsch (Schweiz)",
+    "file": "de-CH.json"
+  },
+  {
+    "code": "el-GR",
+    "label": "Ελληνικά (Ελλάδα)",
+    "file": "el-GR.json"
   },
   {
     "code": "en",
@@ -25,9 +170,54 @@
     "file": "en-GB.json"
   },
   {
+    "code": "en-IE",
+    "label": "English (Ireland)",
+    "file": "en-IE.json"
+  },
+  {
+    "code": "en-IN",
+    "label": "English (India)",
+    "file": "en-IN.json"
+  },
+  {
+    "code": "en-NZ",
+    "label": "English (New Zealand)",
+    "file": "en-NZ.json"
+  },
+  {
+    "code": "en-PH",
+    "label": "English (Philippines)",
+    "file": "en-PH.json"
+  },
+  {
+    "code": "en-SG",
+    "label": "English (Singapore)",
+    "file": "en-SG.json"
+  },
+  {
+    "code": "en-ZA",
+    "label": "English (South Africa)",
+    "file": "en-ZA.json"
+  },
+  {
     "code": "es",
     "label": "Español (España)",
     "file": "es.json"
+  },
+  {
+    "code": "es-AR",
+    "label": "Español (Argentina)",
+    "file": "es-AR.json"
+  },
+  {
+    "code": "es-CL",
+    "label": "Español (Chile)",
+    "file": "es-CL.json"
+  },
+  {
+    "code": "es-CO",
+    "label": "Español (Colombia)",
+    "file": "es-CO.json"
   },
   {
     "code": "es-MX",
@@ -35,14 +225,114 @@
     "file": "es-MX.json"
   },
   {
+    "code": "es-PE",
+    "label": "Español (Perú)",
+    "file": "es-PE.json"
+  },
+  {
+    "code": "es-US",
+    "label": "Español (Estados Unidos)",
+    "file": "es-US.json"
+  },
+  {
+    "code": "es-VE",
+    "label": "Español (Venezuela)",
+    "file": "es-VE.json"
+  },
+  {
+    "code": "et-EE",
+    "label": "Eesti (Eesti)",
+    "file": "et-EE.json"
+  },
+  {
+    "code": "eu-ES",
+    "label": "Euskara (Espainia)",
+    "file": "eu-ES.json"
+  },
+  {
+    "code": "fa-IR",
+    "label": "فارسی (ایران)",
+    "file": "fa-IR.json"
+  },
+  {
+    "code": "fi-FI",
+    "label": "Suomi (Suomi)",
+    "file": "fi-FI.json"
+  },
+  {
+    "code": "fil-PH",
+    "label": "Filipino (Pilipinas)",
+    "file": "fil-PH.json"
+  },
+  {
     "code": "fr",
     "label": "Français (France)",
     "file": "fr.json"
   },
   {
+    "code": "fr-BE",
+    "label": "Français (Belgique)",
+    "file": "fr-BE.json"
+  },
+  {
     "code": "fr-CA",
     "label": "Français (Canada)",
     "file": "fr-CA.json"
+  },
+  {
+    "code": "fr-CH",
+    "label": "Français (Suisse)",
+    "file": "fr-CH.json"
+  },
+  {
+    "code": "ga-IE",
+    "label": "Gaeilge (Éire)",
+    "file": "ga-IE.json"
+  },
+  {
+    "code": "gl-ES",
+    "label": "Galego (España)",
+    "file": "gl-ES.json"
+  },
+  {
+    "code": "gu-IN",
+    "label": "ગુજરાતી (ભારત)",
+    "file": "gu-IN.json"
+  },
+  {
+    "code": "he-IL",
+    "label": "עברית (ישראל)",
+    "file": "he-IL.json"
+  },
+  {
+    "code": "hi-IN",
+    "label": "हिन्दी (भारत)",
+    "file": "hi-IN.json"
+  },
+  {
+    "code": "hr-HR",
+    "label": "Hrvatski (Hrvatska)",
+    "file": "hr-HR.json"
+  },
+  {
+    "code": "hu-HU",
+    "label": "Magyar (Magyarország)",
+    "file": "hu-HU.json"
+  },
+  {
+    "code": "hy-AM",
+    "label": "Հայերեն (Հայաստան)",
+    "file": "hy-AM.json"
+  },
+  {
+    "code": "id-ID",
+    "label": "Bahasa Indonesia (Indonesia)",
+    "file": "id-ID.json"
+  },
+  {
+    "code": "is-IS",
+    "label": "Íslenska (Ísland)",
+    "file": "is-IS.json"
   },
   {
     "code": "it",
@@ -55,9 +345,104 @@
     "file": "ja.json"
   },
   {
+    "code": "ka-GE",
+    "label": "ქართული (საქართველო)",
+    "file": "ka-GE.json"
+  },
+  {
+    "code": "kk-KZ",
+    "label": "Қазақ тілі (Қазақстан)",
+    "file": "kk-KZ.json"
+  },
+  {
+    "code": "km-KH",
+    "label": "ខ្មែរ (កម្ពុជា)",
+    "file": "km-KH.json"
+  },
+  {
+    "code": "kn-IN",
+    "label": "ಕನ್ನಡ (ಭಾರತ)",
+    "file": "kn-IN.json"
+  },
+  {
     "code": "ko",
     "label": "한국어",
     "file": "ko.json"
+  },
+  {
+    "code": "lo-LA",
+    "label": "ລາວ (ລາວ)",
+    "file": "lo-LA.json"
+  },
+  {
+    "code": "lt-LT",
+    "label": "Lietuvių (Lietuva)",
+    "file": "lt-LT.json"
+  },
+  {
+    "code": "lv-LV",
+    "label": "Latviešu (Latvija)",
+    "file": "lv-LV.json"
+  },
+  {
+    "code": "mk-MK",
+    "label": "Македонски (Северна Македонија)",
+    "file": "mk-MK.json"
+  },
+  {
+    "code": "ml-IN",
+    "label": "മലയാളം (ഇന്ത്യ)",
+    "file": "ml-IN.json"
+  },
+  {
+    "code": "mn-MN",
+    "label": "Монгол (Монгол)",
+    "file": "mn-MN.json"
+  },
+  {
+    "code": "mr-IN",
+    "label": "मराठी (भारत)",
+    "file": "mr-IN.json"
+  },
+  {
+    "code": "ms-MY",
+    "label": "Bahasa Melayu (Malaysia)",
+    "file": "ms-MY.json"
+  },
+  {
+    "code": "mt-MT",
+    "label": "Malti (Malta)",
+    "file": "mt-MT.json"
+  },
+  {
+    "code": "my-MM",
+    "label": "မြန်မာ (မြန်မာ)",
+    "file": "my-MM.json"
+  },
+  {
+    "code": "nb-NO",
+    "label": "Norsk bokmål (Norge)",
+    "file": "nb-NO.json"
+  },
+  {
+    "code": "ne-NP",
+    "label": "नेपाली (नेपाल)",
+    "file": "ne-NP.json"
+  },
+  {
+    "code": "nl-BE",
+    "label": "Nederlands (België)",
+    "file": "nl-BE.json"
+  },
+  {
+    "code": "nl-NL",
+    "label": "Nederlands (Nederland)",
+    "file": "nl-NL.json"
+  },
+  {
+    "code": "pl-PL",
+    "label": "Polski (Polska)",
+    "file": "pl-PL.json"
   },
   {
     "code": "pt-BR",
@@ -70,9 +455,94 @@
     "file": "pt-PT.json"
   },
   {
+    "code": "ro-RO",
+    "label": "Română (România)",
+    "file": "ro-RO.json"
+  },
+  {
     "code": "ru",
     "label": "Русский",
     "file": "ru.json"
+  },
+  {
+    "code": "si-LK",
+    "label": "සිංහල (ශ්‍රී ලංකාව)",
+    "file": "si-LK.json"
+  },
+  {
+    "code": "sk-SK",
+    "label": "Slovenčina (Slovensko)",
+    "file": "sk-SK.json"
+  },
+  {
+    "code": "sl-SI",
+    "label": "Slovenščina (Slovenija)",
+    "file": "sl-SI.json"
+  },
+  {
+    "code": "sq-AL",
+    "label": "Shqip (Shqipëri)",
+    "file": "sq-AL.json"
+  },
+  {
+    "code": "sr-Cyrl-RS",
+    "label": "Српски (ћирилица, Србија)",
+    "file": "sr-Cyrl-RS.json"
+  },
+  {
+    "code": "sr-Latn-RS",
+    "label": "Srpski (latinica, Srbija)",
+    "file": "sr-Latn-RS.json"
+  },
+  {
+    "code": "sv-SE",
+    "label": "Svenska (Sverige)",
+    "file": "sv-SE.json"
+  },
+  {
+    "code": "sw-KE",
+    "label": "Kiswahili (Kenya)",
+    "file": "sw-KE.json"
+  },
+  {
+    "code": "ta-IN",
+    "label": "தமிழ் (இந்தியா)",
+    "file": "ta-IN.json"
+  },
+  {
+    "code": "te-IN",
+    "label": "తెలుగు (భారతదేశం)",
+    "file": "te-IN.json"
+  },
+  {
+    "code": "th-TH",
+    "label": "ไทย (ไทย)",
+    "file": "th-TH.json"
+  },
+  {
+    "code": "tr-TR",
+    "label": "Türkçe (Türkiye)",
+    "file": "tr-TR.json"
+  },
+  {
+    "code": "uk-UA",
+    "label": "Українська (Україна)",
+    "file": "uk-UA.json"
+  },
+  {
+    "code": "ur-PK",
+    "label": "اردو (پاکستان)",
+    "file": "ur-PK.json"
+  },
+  {
+    "code": "uz-Latn-UZ",
+    "label": "Oʻzbek (lotin, Oʻzbekiston)",
+    "file": "uz-Latn-UZ.json"
+  },
+  {
+    "code": "vi-VN",
+    "label": "Tiếng Việt (Việt Nam)",
+    "file": "vi-VN.json"
   },
   {
     "code": "zh-CN",
@@ -83,6 +553,11 @@
     "code": "zh-HK",
     "label": "繁體中文（香港）",
     "file": "zh-HK.json"
+  },
+  {
+    "code": "zh-MO",
+    "label": "繁體中文（澳門）",
+    "file": "zh-MO.json"
   },
   {
     "code": "zh-TW",
