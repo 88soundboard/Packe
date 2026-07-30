@@ -1,13 +1,33 @@
 [
   {
+    "code": "af-NA",
+    "label": "Afrikaans (Namibia)",
+    "file": "af-NA.json"
+  },
+  {
     "code": "af-ZA",
     "label": "Afrikaans (South Africa)",
     "file": "af-ZA.json"
   },
   {
+    "code": "agq-CM",
+    "label": "Aghem (Cameroon)",
+    "file": "agq-CM.json"
+  },
+  {
+    "code": "ak-GH",
+    "label": "Akan (Ghana)",
+    "file": "ak-GH.json"
+  },
+  {
     "code": "am-ET",
     "label": "አማርኛ (ኢትዮጵያ)",
     "file": "am-ET.json"
+  },
+  {
+    "code": "ar-001",
+    "label": "العربية (العالم)",
+    "file": "ar-001.json"
   },
   {
     "code": "ar-AE",
@@ -20,6 +40,11 @@
     "file": "ar-BH.json"
   },
   {
+    "code": "ar-DJ",
+    "label": "العربية (جيبوتي)",
+    "file": "ar-DJ.json"
+  },
+  {
     "code": "ar-DZ",
     "label": "العربية (الجزائر)",
     "file": "ar-DZ.json"
@@ -28,6 +53,16 @@
     "code": "ar-EG",
     "label": "العربية (مصر)",
     "file": "ar-EG.json"
+  },
+  {
+    "code": "ar-ER",
+    "label": "العربية (إريتريا)",
+    "file": "ar-ER.json"
+  },
+  {
+    "code": "ar-IL",
+    "label": "العربية (إسرائيل)",
+    "file": "ar-IL.json"
   },
   {
     "code": "ar-IQ",
@@ -40,6 +75,11 @@
     "file": "ar-JO.json"
   },
   {
+    "code": "ar-KM",
+    "label": "العربية (جزر القمر)",
+    "file": "ar-KM.json"
+  },
+  {
     "code": "ar-KW",
     "label": "العربية (الكويت)",
     "file": "ar-KW.json"
@@ -50,14 +90,29 @@
     "file": "ar-LB.json"
   },
   {
+    "code": "ar-LY",
+    "label": "العربية (ليبيا)",
+    "file": "ar-LY.json"
+  },
+  {
     "code": "ar-MA",
     "label": "العربية (المغرب)",
     "file": "ar-MA.json"
   },
   {
+    "code": "ar-MR",
+    "label": "العربية (موريتانيا)",
+    "file": "ar-MR.json"
+  },
+  {
     "code": "ar-OM",
     "label": "العربية (عُمان)",
     "file": "ar-OM.json"
+  },
+  {
+    "code": "ar-PS",
+    "label": "العربية (فلسطين)",
+    "file": "ar-PS.json"
   },
   {
     "code": "ar-QA",
@@ -70,6 +125,31 @@
     "file": "ar-SA.json"
   },
   {
+    "code": "ar-SD",
+    "label": "العربية (السودان)",
+    "file": "ar-SD.json"
+  },
+  {
+    "code": "ar-SO",
+    "label": "العربية (الصومال)",
+    "file": "ar-SO.json"
+  },
+  {
+    "code": "ar-SS",
+    "label": "العربية (جنوب السودان)",
+    "file": "ar-SS.json"
+  },
+  {
+    "code": "ar-SY",
+    "label": "العربية (سوريا)",
+    "file": "ar-SY.json"
+  },
+  {
+    "code": "ar-TD",
+    "label": "العربية (تشاد)",
+    "file": "ar-TD.json"
+  },
+  {
     "code": "ar-TN",
     "label": "العربية (تونس)",
     "file": "ar-TN.json"
@@ -80,9 +160,34 @@
     "file": "ar-YE.json"
   },
   {
-    "code": "az-AZ",
-    "label": "Azərbaycanca (Azərbaycan)",
-    "file": "az-AZ.json"
+    "code": "as-IN",
+    "label": "অসমীয়া (ভাৰত)",
+    "file": "as-IN.json"
+  },
+  {
+    "code": "asa-TZ",
+    "label": "Asu (Tanzania)",
+    "file": "asa-TZ.json"
+  },
+  {
+    "code": "ast-ES",
+    "label": "Asturianu (España)",
+    "file": "ast-ES.json"
+  },
+  {
+    "code": "az-Cyrl-AZ",
+    "label": "Азәрбајҹан (Кирил, Азәрбајҹан)",
+    "file": "az-Cyrl-AZ.json"
+  },
+  {
+    "code": "az-Latn-AZ",
+    "label": "Azərbaycanca (Latın, Azərbaycan)",
+    "file": "az-Latn-AZ.json"
+  },
+  {
+    "code": "bas-CM",
+    "label": "Basaa (Cameroon)",
+    "file": "bas-CM.json"
   },
   {
     "code": "be-BY",
@@ -90,9 +195,29 @@
     "file": "be-BY.json"
   },
   {
+    "code": "bem-ZM",
+    "label": "Bemba (Zambia)",
+    "file": "bem-ZM.json"
+  },
+  {
+    "code": "bez-TZ",
+    "label": "Bena (Tanzania)",
+    "file": "bez-TZ.json"
+  },
+  {
     "code": "bg-BG",
     "label": "Български (България)",
     "file": "bg-BG.json"
+  },
+  {
+    "code": "bho-IN",
+    "label": "भोजपुरी (भारत)",
+    "file": "bho-IN.json"
+  },
+  {
+    "code": "bm-ML",
+    "label": "Bamanankan (Mali)",
+    "file": "bm-ML.json"
   },
   {
     "code": "bn-BD",
@@ -105,14 +230,94 @@
     "file": "bn-IN.json"
   },
   {
-    "code": "bs-BA",
-    "label": "Bosanski (Bosna i Hercegovina)",
-    "file": "bs-BA.json"
+    "code": "bo-CN",
+    "label": "བོད་སྐད་ (རྒྱ་ནག)",
+    "file": "bo-CN.json"
+  },
+  {
+    "code": "bo-IN",
+    "label": "བོད་སྐད་ (རྒྱ་གར)",
+    "file": "bo-IN.json"
+  },
+  {
+    "code": "br-FR",
+    "label": "Brezhoneg (Frañs)",
+    "file": "br-FR.json"
+  },
+  {
+    "code": "brx-IN",
+    "label": "बड़ो (भारत)",
+    "file": "brx-IN.json"
+  },
+  {
+    "code": "bs-Cyrl-BA",
+    "label": "Босански (ћирилица, БиХ)",
+    "file": "bs-Cyrl-BA.json"
+  },
+  {
+    "code": "bs-Latn-BA",
+    "label": "Bosanski (latinica, BiH)",
+    "file": "bs-Latn-BA.json"
+  },
+  {
+    "code": "ca-AD",
+    "label": "Català (Andorra)",
+    "file": "ca-AD.json"
   },
   {
     "code": "ca-ES",
     "label": "Català (Espanya)",
     "file": "ca-ES.json"
+  },
+  {
+    "code": "ca-FR",
+    "label": "Català (França)",
+    "file": "ca-FR.json"
+  },
+  {
+    "code": "ca-IT",
+    "label": "Català (Itàlia)",
+    "file": "ca-IT.json"
+  },
+  {
+    "code": "ccp-BD",
+    "label": "𑄌𑄋𑄴𑄟𑄳𑄦 (Bangladesh)",
+    "file": "ccp-BD.json"
+  },
+  {
+    "code": "ccp-IN",
+    "label": "𑄌𑄋𑄴𑄟𑄳𑄦 (India)",
+    "file": "ccp-IN.json"
+  },
+  {
+    "code": "ce-RU",
+    "label": "Нохчийн (Росси)",
+    "file": "ce-RU.json"
+  },
+  {
+    "code": "ceb-PH",
+    "label": "Cebuano (Pilipinas)",
+    "file": "ceb-PH.json"
+  },
+  {
+    "code": "cgg-UG",
+    "label": "Chiga (Uganda)",
+    "file": "cgg-UG.json"
+  },
+  {
+    "code": "chr-US",
+    "label": "ᏣᎳᎩ (US)",
+    "file": "chr-US.json"
+  },
+  {
+    "code": "ckb-IQ",
+    "label": "کوردیی ناوەندی (عێراق)",
+    "file": "ckb-IQ.json"
+  },
+  {
+    "code": "ckb-IR",
+    "label": "کوردیی ناوەندی (ئێران)",
+    "file": "ckb-IR.json"
   },
   {
     "code": "cs-CZ",
@@ -130,6 +335,16 @@
     "file": "da-DK.json"
   },
   {
+    "code": "da-GL",
+    "label": "Dansk (Grønland)",
+    "file": "da-GL.json"
+  },
+  {
+    "code": "dav-KE",
+    "label": "Taita (Kenya)",
+    "file": "dav-KE.json"
+  },
+  {
     "code": "de",
     "label": "Deutsch",
     "file": "de.json"
@@ -140,9 +355,84 @@
     "file": "de-AT.json"
   },
   {
+    "code": "de-BE",
+    "label": "Deutsch (Belgien)",
+    "file": "de-BE.json"
+  },
+  {
     "code": "de-CH",
     "label": "Deutsch (Schweiz)",
     "file": "de-CH.json"
+  },
+  {
+    "code": "de-DE",
+    "label": "Deutsch (Deutschland)",
+    "file": "de-DE.json"
+  },
+  {
+    "code": "de-IT",
+    "label": "Deutsch (Italien)",
+    "file": "de-IT.json"
+  },
+  {
+    "code": "de-LI",
+    "label": "Deutsch (Liechtenstein)",
+    "file": "de-LI.json"
+  },
+  {
+    "code": "de-LU",
+    "label": "Deutsch (Luxemburg)",
+    "file": "de-LU.json"
+  },
+  {
+    "code": "dje-NE",
+    "label": "Zarma (Niger)",
+    "file": "dje-NE.json"
+  },
+  {
+    "code": "doi-IN",
+    "label": "डोगरी (भारत)",
+    "file": "doi-IN.json"
+  },
+  {
+    "code": "dsb-DE",
+    "label": "Dolnoserbšćina (Nimska)",
+    "file": "dsb-DE.json"
+  },
+  {
+    "code": "dua-CM",
+    "label": "Duala (Cameroon)",
+    "file": "dua-CM.json"
+  },
+  {
+    "code": "dyo-SN",
+    "label": "Jola-Fonyi (Senegal)",
+    "file": "dyo-SN.json"
+  },
+  {
+    "code": "dz-BT",
+    "label": "རྫོང་ཁ (འབྲུག)",
+    "file": "dz-BT.json"
+  },
+  {
+    "code": "ebu-KE",
+    "label": "Embu (Kenya)",
+    "file": "ebu-KE.json"
+  },
+  {
+    "code": "ee-GH",
+    "label": "Eʋegbe (Ghana)",
+    "file": "ee-GH.json"
+  },
+  {
+    "code": "ee-TG",
+    "label": "Eʋegbe (Togo)",
+    "file": "ee-TG.json"
+  },
+  {
+    "code": "el-CY",
+    "label": "Ελληνικά (Κύπρος)",
+    "file": "el-CY.json"
   },
   {
     "code": "el-GR",
@@ -155,9 +445,79 @@
     "file": "en.json"
   },
   {
+    "code": "en-001",
+    "label": "English (World)",
+    "file": "en-001.json"
+  },
+  {
+    "code": "en-150",
+    "label": "English (Europe)",
+    "file": "en-150.json"
+  },
+  {
+    "code": "en-AE",
+    "label": "English (United Arab Emirates)",
+    "file": "en-AE.json"
+  },
+  {
+    "code": "en-AG",
+    "label": "English (Antigua & Barbuda)",
+    "file": "en-AG.json"
+  },
+  {
+    "code": "en-AI",
+    "label": "English (Anguilla)",
+    "file": "en-AI.json"
+  },
+  {
+    "code": "en-AS",
+    "label": "English (American Samoa)",
+    "file": "en-AS.json"
+  },
+  {
+    "code": "en-AT",
+    "label": "English (Austria)",
+    "file": "en-AT.json"
+  },
+  {
     "code": "en-AU",
     "label": "English (Australia)",
     "file": "en-AU.json"
+  },
+  {
+    "code": "en-BB",
+    "label": "English (Barbados)",
+    "file": "en-BB.json"
+  },
+  {
+    "code": "en-BE",
+    "label": "English (Belgium)",
+    "file": "en-BE.json"
+  },
+  {
+    "code": "en-BI",
+    "label": "English (Burundi)",
+    "file": "en-BI.json"
+  },
+  {
+    "code": "en-BM",
+    "label": "English (Bermuda)",
+    "file": "en-BM.json"
+  },
+  {
+    "code": "en-BS",
+    "label": "English (Bahamas)",
+    "file": "en-BS.json"
+  },
+  {
+    "code": "en-BW",
+    "label": "English (Botswana)",
+    "file": "en-BW.json"
+  },
+  {
+    "code": "en-BZ",
+    "label": "English (Belize)",
+    "file": "en-BZ.json"
   },
   {
     "code": "en-CA",
@@ -165,9 +525,124 @@
     "file": "en-CA.json"
   },
   {
+    "code": "en-CC",
+    "label": "English (Cocos Islands)",
+    "file": "en-CC.json"
+  },
+  {
+    "code": "en-CH",
+    "label": "English (Switzerland)",
+    "file": "en-CH.json"
+  },
+  {
+    "code": "en-CK",
+    "label": "English (Cook Islands)",
+    "file": "en-CK.json"
+  },
+  {
+    "code": "en-CM",
+    "label": "English (Cameroon)",
+    "file": "en-CM.json"
+  },
+  {
+    "code": "en-CX",
+    "label": "English (Christmas Island)",
+    "file": "en-CX.json"
+  },
+  {
+    "code": "en-CY",
+    "label": "English (Cyprus)",
+    "file": "en-CY.json"
+  },
+  {
+    "code": "en-DE",
+    "label": "English (Germany)",
+    "file": "en-DE.json"
+  },
+  {
+    "code": "en-DG",
+    "label": "English (Diego Garcia)",
+    "file": "en-DG.json"
+  },
+  {
+    "code": "en-DK",
+    "label": "English (Denmark)",
+    "file": "en-DK.json"
+  },
+  {
+    "code": "en-DM",
+    "label": "English (Dominica)",
+    "file": "en-DM.json"
+  },
+  {
+    "code": "en-ER",
+    "label": "English (Eritrea)",
+    "file": "en-ER.json"
+  },
+  {
+    "code": "en-FI",
+    "label": "English (Finland)",
+    "file": "en-FI.json"
+  },
+  {
+    "code": "en-FJ",
+    "label": "English (Fiji)",
+    "file": "en-FJ.json"
+  },
+  {
+    "code": "en-FK",
+    "label": "English (Falkland Islands)",
+    "file": "en-FK.json"
+  },
+  {
+    "code": "en-FM",
+    "label": "English (Micronesia)",
+    "file": "en-FM.json"
+  },
+  {
     "code": "en-GB",
     "label": "English (UK)",
     "file": "en-GB.json"
+  },
+  {
+    "code": "en-GD",
+    "label": "English (Grenada)",
+    "file": "en-GD.json"
+  },
+  {
+    "code": "en-GG",
+    "label": "English (Guernsey)",
+    "file": "en-GG.json"
+  },
+  {
+    "code": "en-GH",
+    "label": "English (Ghana)",
+    "file": "en-GH.json"
+  },
+  {
+    "code": "en-GI",
+    "label": "English (Gibraltar)",
+    "file": "en-GI.json"
+  },
+  {
+    "code": "en-GM",
+    "label": "English (Gambia)",
+    "file": "en-GM.json"
+  },
+  {
+    "code": "en-GU",
+    "label": "English (Guam)",
+    "file": "en-GU.json"
+  },
+  {
+    "code": "en-GY",
+    "label": "English (Guyana)",
+    "file": "en-GY.json"
+  },
+  {
+    "code": "en-HK",
+    "label": "English (Hong Kong)",
+    "file": "en-HK.json"
   },
   {
     "code": "en-IE",
@@ -175,9 +650,144 @@
     "file": "en-IE.json"
   },
   {
+    "code": "en-IL",
+    "label": "English (Israel)",
+    "file": "en-IL.json"
+  },
+  {
+    "code": "en-IM",
+    "label": "English (Isle of Man)",
+    "file": "en-IM.json"
+  },
+  {
     "code": "en-IN",
     "label": "English (India)",
     "file": "en-IN.json"
+  },
+  {
+    "code": "en-IO",
+    "label": "English (British Indian Ocean Territory)",
+    "file": "en-IO.json"
+  },
+  {
+    "code": "en-JE",
+    "label": "English (Jersey)",
+    "file": "en-JE.json"
+  },
+  {
+    "code": "en-JM",
+    "label": "English (Jamaica)",
+    "file": "en-JM.json"
+  },
+  {
+    "code": "en-KE",
+    "label": "English (Kenya)",
+    "file": "en-KE.json"
+  },
+  {
+    "code": "en-KI",
+    "label": "English (Kiribati)",
+    "file": "en-KI.json"
+  },
+  {
+    "code": "en-KN",
+    "label": "English (St. Kitts & Nevis)",
+    "file": "en-KN.json"
+  },
+  {
+    "code": "en-KY",
+    "label": "English (Cayman Islands)",
+    "file": "en-KY.json"
+  },
+  {
+    "code": "en-LC",
+    "label": "English (St. Lucia)",
+    "file": "en-LC.json"
+  },
+  {
+    "code": "en-LR",
+    "label": "English (Liberia)",
+    "file": "en-LR.json"
+  },
+  {
+    "code": "en-LS",
+    "label": "English (Lesotho)",
+    "file": "en-LS.json"
+  },
+  {
+    "code": "en-MG",
+    "label": "English (Madagascar)",
+    "file": "en-MG.json"
+  },
+  {
+    "code": "en-MH",
+    "label": "English (Marshall Islands)",
+    "file": "en-MH.json"
+  },
+  {
+    "code": "en-MO",
+    "label": "English (Macao)",
+    "file": "en-MO.json"
+  },
+  {
+    "code": "en-MP",
+    "label": "English (Northern Mariana Islands)",
+    "file": "en-MP.json"
+  },
+  {
+    "code": "en-MS",
+    "label": "English (Montserrat)",
+    "file": "en-MS.json"
+  },
+  {
+    "code": "en-MT",
+    "label": "English (Malta)",
+    "file": "en-MT.json"
+  },
+  {
+    "code": "en-MU",
+    "label": "English (Mauritius)",
+    "file": "en-MU.json"
+  },
+  {
+    "code": "en-MW",
+    "label": "English (Malawi)",
+    "file": "en-MW.json"
+  },
+  {
+    "code": "en-MY",
+    "label": "English (Malaysia)",
+    "file": "en-MY.json"
+  },
+  {
+    "code": "en-NA",
+    "label": "English (Namibia)",
+    "file": "en-NA.json"
+  },
+  {
+    "code": "en-NF",
+    "label": "English (Norfolk Island)",
+    "file": "en-NF.json"
+  },
+  {
+    "code": "en-NG",
+    "label": "English (Nigeria)",
+    "file": "en-NG.json"
+  },
+  {
+    "code": "en-NL",
+    "label": "English (Netherlands)",
+    "file": "en-NL.json"
+  },
+  {
+    "code": "en-NR",
+    "label": "English (Nauru)",
+    "file": "en-NR.json"
+  },
+  {
+    "code": "en-NU",
+    "label": "English (Niue)",
+    "file": "en-NU.json"
   },
   {
     "code": "en-NZ",
@@ -185,9 +795,59 @@
     "file": "en-NZ.json"
   },
   {
+    "code": "en-PG",
+    "label": "English (Papua New Guinea)",
+    "file": "en-PG.json"
+  },
+  {
     "code": "en-PH",
     "label": "English (Philippines)",
     "file": "en-PH.json"
+  },
+  {
+    "code": "en-PK",
+    "label": "English (Pakistan)",
+    "file": "en-PK.json"
+  },
+  {
+    "code": "en-PN",
+    "label": "English (Pitcairn Islands)",
+    "file": "en-PN.json"
+  },
+  {
+    "code": "en-PR",
+    "label": "English (Puerto Rico)",
+    "file": "en-PR.json"
+  },
+  {
+    "code": "en-PW",
+    "label": "English (Palau)",
+    "file": "en-PW.json"
+  },
+  {
+    "code": "en-RW",
+    "label": "English (Rwanda)",
+    "file": "en-RW.json"
+  },
+  {
+    "code": "en-SB",
+    "label": "English (Solomon Islands)",
+    "file": "en-SB.json"
+  },
+  {
+    "code": "en-SC",
+    "label": "English (Seychelles)",
+    "file": "en-SC.json"
+  },
+  {
+    "code": "en-SD",
+    "label": "English (Sudan)",
+    "file": "en-SD.json"
+  },
+  {
+    "code": "en-SE",
+    "label": "English (Sweden)",
+    "file": "en-SE.json"
   },
   {
     "code": "en-SG",
@@ -195,9 +855,119 @@
     "file": "en-SG.json"
   },
   {
+    "code": "en-SH",
+    "label": "English (St. Helena)",
+    "file": "en-SH.json"
+  },
+  {
+    "code": "en-SI",
+    "label": "English (Slovenia)",
+    "file": "en-SI.json"
+  },
+  {
+    "code": "en-SL",
+    "label": "English (Sierra Leone)",
+    "file": "en-SL.json"
+  },
+  {
+    "code": "en-SS",
+    "label": "English (South Sudan)",
+    "file": "en-SS.json"
+  },
+  {
+    "code": "en-SX",
+    "label": "English (Sint Maarten)",
+    "file": "en-SX.json"
+  },
+  {
+    "code": "en-SZ",
+    "label": "English (Eswatini)",
+    "file": "en-SZ.json"
+  },
+  {
+    "code": "en-TC",
+    "label": "English (Turks & Caicos Islands)",
+    "file": "en-TC.json"
+  },
+  {
+    "code": "en-TK",
+    "label": "English (Tokelau)",
+    "file": "en-TK.json"
+  },
+  {
+    "code": "en-TO",
+    "label": "English (Tonga)",
+    "file": "en-TO.json"
+  },
+  {
+    "code": "en-TT",
+    "label": "English (Trinidad & Tobago)",
+    "file": "en-TT.json"
+  },
+  {
+    "code": "en-TV",
+    "label": "English (Tuvalu)",
+    "file": "en-TV.json"
+  },
+  {
+    "code": "en-TZ",
+    "label": "English (Tanzania)",
+    "file": "en-TZ.json"
+  },
+  {
+    "code": "en-UG",
+    "label": "English (Uganda)",
+    "file": "en-UG.json"
+  },
+  {
+    "code": "en-UM",
+    "label": "English (U.S. Outlying Islands)",
+    "file": "en-UM.json"
+  },
+  {
+    "code": "en-US",
+    "label": "English (US)",
+    "file": "en-US.json"
+  },
+  {
+    "code": "en-VC",
+    "label": "English (St. Vincent & Grenadines)",
+    "file": "en-VC.json"
+  },
+  {
+    "code": "en-VG",
+    "label": "English (British Virgin Islands)",
+    "file": "en-VG.json"
+  },
+  {
+    "code": "en-VI",
+    "label": "English (U.S. Virgin Islands)",
+    "file": "en-VI.json"
+  },
+  {
+    "code": "en-VU",
+    "label": "English (Vanuatu)",
+    "file": "en-VU.json"
+  },
+  {
+    "code": "en-WS",
+    "label": "English (Samoa)",
+    "file": "en-WS.json"
+  },
+  {
     "code": "en-ZA",
     "label": "English (South Africa)",
     "file": "en-ZA.json"
+  },
+  {
+    "code": "en-ZM",
+    "label": "English (Zambia)",
+    "file": "en-ZM.json"
+  },
+  {
+    "code": "en-ZW",
+    "label": "English (Zimbabwe)",
+    "file": "en-ZW.json"
   },
   {
     "code": "es",
@@ -205,9 +975,29 @@
     "file": "es.json"
   },
   {
+    "code": "es-419",
+    "label": "Español (Latinoamérica)",
+    "file": "es-419.json"
+  },
+  {
     "code": "es-AR",
     "label": "Español (Argentina)",
     "file": "es-AR.json"
+  },
+  {
+    "code": "es-BO",
+    "label": "Español (Bolivia)",
+    "file": "es-BO.json"
+  },
+  {
+    "code": "es-BR",
+    "label": "Español (Brasil)",
+    "file": "es-BR.json"
+  },
+  {
+    "code": "es-BZ",
+    "label": "Español (Belice)",
+    "file": "es-BZ.json"
   },
   {
     "code": "es-CL",
@@ -220,9 +1010,69 @@
     "file": "es-CO.json"
   },
   {
+    "code": "es-CR",
+    "label": "Español (Costa Rica)",
+    "file": "es-CR.json"
+  },
+  {
+    "code": "es-CU",
+    "label": "Español (Cuba)",
+    "file": "es-CU.json"
+  },
+  {
+    "code": "es-DO",
+    "label": "Español (República Dominicana)",
+    "file": "es-DO.json"
+  },
+  {
+    "code": "es-EA",
+    "label": "Español (Ceuta y Melilla)",
+    "file": "es-EA.json"
+  },
+  {
+    "code": "es-EC",
+    "label": "Español (Ecuador)",
+    "file": "es-EC.json"
+  },
+  {
+    "code": "es-ES",
+    "label": "Español (España)",
+    "file": "es-ES.json"
+  },
+  {
+    "code": "es-GQ",
+    "label": "Español (Guinea Ecuatorial)",
+    "file": "es-GQ.json"
+  },
+  {
+    "code": "es-GT",
+    "label": "Español (Guatemala)",
+    "file": "es-GT.json"
+  },
+  {
+    "code": "es-HN",
+    "label": "Español (Honduras)",
+    "file": "es-HN.json"
+  },
+  {
+    "code": "es-IC",
+    "label": "Español (Canarias)",
+    "file": "es-IC.json"
+  },
+  {
     "code": "es-MX",
-    "label": "Español (Latinoamérica)",
+    "label": "Español (México)",
     "file": "es-MX.json"
+  },
+  {
+    "code": "es-NI",
+    "label": "Español (Nicaragua)",
+    "file": "es-NI.json"
+  },
+  {
+    "code": "es-PA",
+    "label": "Español (Panamá)",
+    "file": "es-PA.json"
   },
   {
     "code": "es-PE",
@@ -230,9 +1080,34 @@
     "file": "es-PE.json"
   },
   {
+    "code": "es-PH",
+    "label": "Español (Filipinas)",
+    "file": "es-PH.json"
+  },
+  {
+    "code": "es-PR",
+    "label": "Español (Puerto Rico)",
+    "file": "es-PR.json"
+  },
+  {
+    "code": "es-PY",
+    "label": "Español (Paraguay)",
+    "file": "es-PY.json"
+  },
+  {
+    "code": "es-SV",
+    "label": "Español (El Salvador)",
+    "file": "es-SV.json"
+  },
+  {
     "code": "es-US",
     "label": "Español (Estados Unidos)",
     "file": "es-US.json"
+  },
+  {
+    "code": "es-UY",
+    "label": "Español (Uruguay)",
+    "file": "es-UY.json"
   },
   {
     "code": "es-VE",
@@ -250,9 +1125,79 @@
     "file": "eu-ES.json"
   },
   {
+    "code": "ewo-CM",
+    "label": "Ewondo (Cameroon)",
+    "file": "ewo-CM.json"
+  },
+  {
+    "code": "fa-AF",
+    "label": "دری (افغانستان)",
+    "file": "fa-AF.json"
+  },
+  {
     "code": "fa-IR",
     "label": "فارسی (ایران)",
     "file": "fa-IR.json"
+  },
+  {
+    "code": "ff-Adlm-BF",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Burkina Faso)",
+    "file": "ff-Adlm-BF.json"
+  },
+  {
+    "code": "ff-Adlm-CM",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Cameroon)",
+    "file": "ff-Adlm-CM.json"
+  },
+  {
+    "code": "ff-Adlm-GH",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Ghana)",
+    "file": "ff-Adlm-GH.json"
+  },
+  {
+    "code": "ff-Adlm-GM",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Gambia)",
+    "file": "ff-Adlm-GM.json"
+  },
+  {
+    "code": "ff-Adlm-GN",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Guinea)",
+    "file": "ff-Adlm-GN.json"
+  },
+  {
+    "code": "ff-Adlm-GW",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Guinea-Bissau)",
+    "file": "ff-Adlm-GW.json"
+  },
+  {
+    "code": "ff-Adlm-LR",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Liberia)",
+    "file": "ff-Adlm-LR.json"
+  },
+  {
+    "code": "ff-Adlm-MR",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Mauritania)",
+    "file": "ff-Adlm-MR.json"
+  },
+  {
+    "code": "ff-Adlm-NE",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Niger)",
+    "file": "ff-Adlm-NE.json"
+  },
+  {
+    "code": "ff-Adlm-NG",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Nigeria)",
+    "file": "ff-Adlm-NG.json"
+  },
+  {
+    "code": "ff-Adlm-SL",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Sierra Leone)",
+    "file": "ff-Adlm-SL.json"
+  },
+  {
+    "code": "ff-Adlm-SN",
+    "label": "𞤊𞤵𞤤𞤢𞤪 (Adlam, Senegal)",
+    "file": "ff-Adlm-SN.json"
   },
   {
     "code": "fi-FI",
@@ -265,6 +1210,16 @@
     "file": "fil-PH.json"
   },
   {
+    "code": "fo-DK",
+    "label": "Føroyskt (Danmark)",
+    "file": "fo-DK.json"
+  },
+  {
+    "code": "fo-FO",
+    "label": "Føroyskt (Føroyar)",
+    "file": "fo-FO.json"
+  },
+  {
     "code": "fr",
     "label": "Français (France)",
     "file": "fr.json"
@@ -275,9 +1230,44 @@
     "file": "fr-BE.json"
   },
   {
+    "code": "fr-BF",
+    "label": "Français (Burkina Faso)",
+    "file": "fr-BF.json"
+  },
+  {
+    "code": "fr-BI",
+    "label": "Français (Burundi)",
+    "file": "fr-BI.json"
+  },
+  {
+    "code": "fr-BJ",
+    "label": "Français (Bénin)",
+    "file": "fr-BJ.json"
+  },
+  {
+    "code": "fr-BL",
+    "label": "Français (Saint-Barthélemy)",
+    "file": "fr-BL.json"
+  },
+  {
     "code": "fr-CA",
     "label": "Français (Canada)",
     "file": "fr-CA.json"
+  },
+  {
+    "code": "fr-CD",
+    "label": "Français (Congo-Kinshasa)",
+    "file": "fr-CD.json"
+  },
+  {
+    "code": "fr-CF",
+    "label": "Français (République centrafricaine)",
+    "file": "fr-CF.json"
+  },
+  {
+    "code": "fr-CG",
+    "label": "Français (Congo-Brazzaville)",
+    "file": "fr-CG.json"
   },
   {
     "code": "fr-CH",
@@ -285,9 +1275,209 @@
     "file": "fr-CH.json"
   },
   {
+    "code": "fr-CI",
+    "label": "Français (Côte d’Ivoire)",
+    "file": "fr-CI.json"
+  },
+  {
+    "code": "fr-CM",
+    "label": "Français (Cameroun)",
+    "file": "fr-CM.json"
+  },
+  {
+    "code": "fr-DJ",
+    "label": "Français (Djibouti)",
+    "file": "fr-DJ.json"
+  },
+  {
+    "code": "fr-DZ",
+    "label": "Français (Algérie)",
+    "file": "fr-DZ.json"
+  },
+  {
+    "code": "fr-FR",
+    "label": "Français (France)",
+    "file": "fr-FR.json"
+  },
+  {
+    "code": "fr-GA",
+    "label": "Français (Gabon)",
+    "file": "fr-GA.json"
+  },
+  {
+    "code": "fr-GF",
+    "label": "Français (Guyane française)",
+    "file": "fr-GF.json"
+  },
+  {
+    "code": "fr-GN",
+    "label": "Français (Guinée)",
+    "file": "fr-GN.json"
+  },
+  {
+    "code": "fr-GP",
+    "label": "Français (Guadeloupe)",
+    "file": "fr-GP.json"
+  },
+  {
+    "code": "fr-GQ",
+    "label": "Français (Guinée équatoriale)",
+    "file": "fr-GQ.json"
+  },
+  {
+    "code": "fr-HT",
+    "label": "Français (Haïti)",
+    "file": "fr-HT.json"
+  },
+  {
+    "code": "fr-KM",
+    "label": "Français (Comores)",
+    "file": "fr-KM.json"
+  },
+  {
+    "code": "fr-LU",
+    "label": "Français (Luxembourg)",
+    "file": "fr-LU.json"
+  },
+  {
+    "code": "fr-MA",
+    "label": "Français (Maroc)",
+    "file": "fr-MA.json"
+  },
+  {
+    "code": "fr-MC",
+    "label": "Français (Monaco)",
+    "file": "fr-MC.json"
+  },
+  {
+    "code": "fr-MF",
+    "label": "Français (Saint-Martin)",
+    "file": "fr-MF.json"
+  },
+  {
+    "code": "fr-MG",
+    "label": "Français (Madagascar)",
+    "file": "fr-MG.json"
+  },
+  {
+    "code": "fr-ML",
+    "label": "Français (Mali)",
+    "file": "fr-ML.json"
+  },
+  {
+    "code": "fr-MQ",
+    "label": "Français (Martinique)",
+    "file": "fr-MQ.json"
+  },
+  {
+    "code": "fr-MR",
+    "label": "Français (Mauritanie)",
+    "file": "fr-MR.json"
+  },
+  {
+    "code": "fr-MU",
+    "label": "Français (Maurice)",
+    "file": "fr-MU.json"
+  },
+  {
+    "code": "fr-NC",
+    "label": "Français (Nouvelle-Calédonie)",
+    "file": "fr-NC.json"
+  },
+  {
+    "code": "fr-NE",
+    "label": "Français (Niger)",
+    "file": "fr-NE.json"
+  },
+  {
+    "code": "fr-PF",
+    "label": "Français (Polynésie française)",
+    "file": "fr-PF.json"
+  },
+  {
+    "code": "fr-PM",
+    "label": "Français (Saint-Pierre-et-Miquelon)",
+    "file": "fr-PM.json"
+  },
+  {
+    "code": "fr-RE",
+    "label": "Français (La Réunion)",
+    "file": "fr-RE.json"
+  },
+  {
+    "code": "fr-RW",
+    "label": "Français (Rwanda)",
+    "file": "fr-RW.json"
+  },
+  {
+    "code": "fr-SC",
+    "label": "Français (Seychelles)",
+    "file": "fr-SC.json"
+  },
+  {
+    "code": "fr-SN",
+    "label": "Français (Sénégal)",
+    "file": "fr-SN.json"
+  },
+  {
+    "code": "fr-SY",
+    "label": "Français (Syrie)",
+    "file": "fr-SY.json"
+  },
+  {
+    "code": "fr-TD",
+    "label": "Français (Tchad)",
+    "file": "fr-TD.json"
+  },
+  {
+    "code": "fr-TG",
+    "label": "Français (Togo)",
+    "file": "fr-TG.json"
+  },
+  {
+    "code": "fr-TN",
+    "label": "Français (Tunisie)",
+    "file": "fr-TN.json"
+  },
+  {
+    "code": "fr-VU",
+    "label": "Français (Vanuatu)",
+    "file": "fr-VU.json"
+  },
+  {
+    "code": "fr-WF",
+    "label": "Français (Wallis-et-Futuna)",
+    "file": "fr-WF.json"
+  },
+  {
+    "code": "fr-YT",
+    "label": "Français (Mayotte)",
+    "file": "fr-YT.json"
+  },
+  {
+    "code": "fur-IT",
+    "label": "Furlan (Italia)",
+    "file": "fur-IT.json"
+  },
+  {
+    "code": "fy-NL",
+    "label": "Frysk (Nederlân)",
+    "file": "fy-NL.json"
+  },
+  {
+    "code": "ga-GB",
+    "label": "Gaeilge (An Ríocht Aontaithe)",
+    "file": "ga-GB.json"
+  },
+  {
     "code": "ga-IE",
     "label": "Gaeilge (Éire)",
     "file": "ga-IE.json"
+  },
+  {
+    "code": "gd-GB",
+    "label": "Gàidhlig (An Rìoghachd Aonaichte)",
+    "file": "gd-GB.json"
   },
   {
     "code": "gl-ES",
@@ -295,9 +1485,54 @@
     "file": "gl-ES.json"
   },
   {
+    "code": "gsw-CH",
+    "label": "Schwiizertüütsch (Schwiiz)",
+    "file": "gsw-CH.json"
+  },
+  {
+    "code": "gsw-FR",
+    "label": "Alsacien (France)",
+    "file": "gsw-FR.json"
+  },
+  {
+    "code": "gsw-LI",
+    "label": "Schwiizertüütsch (Liechtenstein)",
+    "file": "gsw-LI.json"
+  },
+  {
     "code": "gu-IN",
     "label": "ગુજરાતી (ભારત)",
     "file": "gu-IN.json"
+  },
+  {
+    "code": "guz-KE",
+    "label": "Gusii (Kenya)",
+    "file": "guz-KE.json"
+  },
+  {
+    "code": "gv-IM",
+    "label": "Gaelg (Mannin)",
+    "file": "gv-IM.json"
+  },
+  {
+    "code": "ha-GH",
+    "label": "Hausa (Ghana)",
+    "file": "ha-GH.json"
+  },
+  {
+    "code": "ha-NE",
+    "label": "Hausa (Nijar)",
+    "file": "ha-NE.json"
+  },
+  {
+    "code": "ha-NG",
+    "label": "Hausa (Najeriya)",
+    "file": "ha-NG.json"
+  },
+  {
+    "code": "haw-US",
+    "label": "ʻŌlelo Hawaiʻi (US)",
+    "file": "haw-US.json"
   },
   {
     "code": "he-IL",
@@ -310,9 +1545,24 @@
     "file": "hi-IN.json"
   },
   {
+    "code": "hi-Latn-IN",
+    "label": "Hindi Latin (India)",
+    "file": "hi-Latn-IN.json"
+  },
+  {
+    "code": "hr-BA",
+    "label": "Hrvatski (Bosna i Hercegovina)",
+    "file": "hr-BA.json"
+  },
+  {
     "code": "hr-HR",
     "label": "Hrvatski (Hrvatska)",
     "file": "hr-HR.json"
+  },
+  {
+    "code": "hsb-DE",
+    "label": "Hornjoserbšćina (Němska)",
+    "file": "hsb-DE.json"
   },
   {
     "code": "hu-HU",
@@ -325,9 +1575,24 @@
     "file": "hy-AM.json"
   },
   {
+    "code": "ia-001",
+    "label": "Interlingua (World)",
+    "file": "ia-001.json"
+  },
+  {
     "code": "id-ID",
     "label": "Bahasa Indonesia (Indonesia)",
     "file": "id-ID.json"
+  },
+  {
+    "code": "ig-NG",
+    "label": "Igbo (Nigeria)",
+    "file": "ig-NG.json"
+  },
+  {
+    "code": "ii-CN",
+    "label": "ꆈꌠꉙ (ꍏꇩ)",
+    "file": "ii-CN.json"
   },
   {
     "code": "is-IS",
@@ -340,9 +1605,49 @@
     "file": "it.json"
   },
   {
+    "code": "it-CH",
+    "label": "Italiano (Svizzera)",
+    "file": "it-CH.json"
+  },
+  {
+    "code": "it-IT",
+    "label": "Italiano (Italia)",
+    "file": "it-IT.json"
+  },
+  {
+    "code": "it-SM",
+    "label": "Italiano (San Marino)",
+    "file": "it-SM.json"
+  },
+  {
+    "code": "it-VA",
+    "label": "Italiano (Città del Vaticano)",
+    "file": "it-VA.json"
+  },
+  {
     "code": "ja",
     "label": "日本語",
     "file": "ja.json"
+  },
+  {
+    "code": "ja-JP",
+    "label": "日本語 (日本)",
+    "file": "ja-JP.json"
+  },
+  {
+    "code": "jgo-CM",
+    "label": "Ndaꞌa (Cameroon)",
+    "file": "jgo-CM.json"
+  },
+  {
+    "code": "jmc-TZ",
+    "label": "Machame (Tanzania)",
+    "file": "jmc-TZ.json"
+  },
+  {
+    "code": "jv-ID",
+    "label": "Jawa (Indonesia)",
+    "file": "jv-ID.json"
   },
   {
     "code": "ka-GE",
@@ -350,9 +1655,54 @@
     "file": "ka-GE.json"
   },
   {
+    "code": "kab-DZ",
+    "label": "Taqbaylit (Lezzayer)",
+    "file": "kab-DZ.json"
+  },
+  {
+    "code": "kam-KE",
+    "label": "Kamba (Kenya)",
+    "file": "kam-KE.json"
+  },
+  {
+    "code": "kde-TZ",
+    "label": "Makonde (Tanzania)",
+    "file": "kde-TZ.json"
+  },
+  {
+    "code": "kea-CV",
+    "label": "Kabuverdianu (Kabu Verdi)",
+    "file": "kea-CV.json"
+  },
+  {
+    "code": "khq-ML",
+    "label": "Koyra Chiini (Mali)",
+    "file": "khq-ML.json"
+  },
+  {
+    "code": "ki-KE",
+    "label": "Gikuyu (Kenya)",
+    "file": "ki-KE.json"
+  },
+  {
     "code": "kk-KZ",
     "label": "Қазақ тілі (Қазақстан)",
     "file": "kk-KZ.json"
+  },
+  {
+    "code": "kkj-CM",
+    "label": "Kako (Cameroon)",
+    "file": "kkj-CM.json"
+  },
+  {
+    "code": "kl-GL",
+    "label": "Kalaallisut (Kalaallit Nunaat)",
+    "file": "kl-GL.json"
+  },
+  {
+    "code": "kln-KE",
+    "label": "Kalenjin (Kenya)",
+    "file": "kln-KE.json"
   },
   {
     "code": "km-KH",
@@ -370,9 +1720,109 @@
     "file": "ko.json"
   },
   {
+    "code": "ko-KP",
+    "label": "한국어 (조선민주주의인민공화국)",
+    "file": "ko-KP.json"
+  },
+  {
+    "code": "ko-KR",
+    "label": "한국어 (대한민국)",
+    "file": "ko-KR.json"
+  },
+  {
+    "code": "kok-IN",
+    "label": "कोंकणी (भारत)",
+    "file": "kok-IN.json"
+  },
+  {
+    "code": "ks-Arab-IN",
+    "label": "کٲشُر (عربی, ہِندوستان)",
+    "file": "ks-Arab-IN.json"
+  },
+  {
+    "code": "ks-Deva-IN",
+    "label": "कॉशुर (देवनागरी, भारत)",
+    "file": "ks-Deva-IN.json"
+  },
+  {
+    "code": "ksb-TZ",
+    "label": "Shambala (Tanzania)",
+    "file": "ksb-TZ.json"
+  },
+  {
+    "code": "ksf-CM",
+    "label": "Bafia (Cameroon)",
+    "file": "ksf-CM.json"
+  },
+  {
+    "code": "ksh-DE",
+    "label": "Kölsch (Deutschland)",
+    "file": "ksh-DE.json"
+  },
+  {
+    "code": "kw-GB",
+    "label": "Kernewek (Rywvaneth Unys)",
+    "file": "kw-GB.json"
+  },
+  {
+    "code": "ky-KG",
+    "label": "Кыргызча (Кыргызстан)",
+    "file": "ky-KG.json"
+  },
+  {
+    "code": "lag-TZ",
+    "label": "Langi (Tanzania)",
+    "file": "lag-TZ.json"
+  },
+  {
+    "code": "lb-LU",
+    "label": "Lëtzebuergesch (Lëtzebuerg)",
+    "file": "lb-LU.json"
+  },
+  {
+    "code": "lg-UG",
+    "label": "Luganda (Uganda)",
+    "file": "lg-UG.json"
+  },
+  {
+    "code": "lkt-US",
+    "label": "Lakȟólʼiyapi (US)",
+    "file": "lkt-US.json"
+  },
+  {
+    "code": "ln-AO",
+    "label": "Lingála (Angóla)",
+    "file": "ln-AO.json"
+  },
+  {
+    "code": "ln-CD",
+    "label": "Lingála (Congo-Kinshasa)",
+    "file": "ln-CD.json"
+  },
+  {
+    "code": "ln-CF",
+    "label": "Lingála (Ködörösêse tî Bêafrîka)",
+    "file": "ln-CF.json"
+  },
+  {
+    "code": "ln-CG",
+    "label": "Lingála (Congo-Brazzaville)",
+    "file": "ln-CG.json"
+  },
+  {
     "code": "lo-LA",
     "label": "ລາວ (ລາວ)",
     "file": "lo-LA.json"
+  },
+  {
+    "code": "lrc-IQ",
+    "label": "لۊری شومالی (عێراق)",
+    "file": "lrc-IQ.json"
+  },
+  {
+    "code": "lrc-IR",
+    "label": "لۊری شومالی (ئیران)",
+    "file": "lrc-IR.json"
   },
   {
     "code": "lt-LT",
@@ -380,9 +1830,69 @@
     "file": "lt-LT.json"
   },
   {
+    "code": "lu-CD",
+    "label": "Tshiluba (Congo-Kinshasa)",
+    "file": "lu-CD.json"
+  },
+  {
+    "code": "luo-KE",
+    "label": "Dholuo (Kenya)",
+    "file": "luo-KE.json"
+  },
+  {
+    "code": "luy-KE",
+    "label": "Luluhia (Kenya)",
+    "file": "luy-KE.json"
+  },
+  {
     "code": "lv-LV",
     "label": "Latviešu (Latvija)",
     "file": "lv-LV.json"
+  },
+  {
+    "code": "mai-IN",
+    "label": "मैथिली (भारत)",
+    "file": "mai-IN.json"
+  },
+  {
+    "code": "mas-KE",
+    "label": "Maa (Kenya)",
+    "file": "mas-KE.json"
+  },
+  {
+    "code": "mas-TZ",
+    "label": "Maa (Tanzania)",
+    "file": "mas-TZ.json"
+  },
+  {
+    "code": "mer-KE",
+    "label": "Kĩmĩrũ (Kenya)",
+    "file": "mer-KE.json"
+  },
+  {
+    "code": "mfe-MU",
+    "label": "Kreol Morisien (Moris)",
+    "file": "mfe-MU.json"
+  },
+  {
+    "code": "mg-MG",
+    "label": "Malagasy (Madagasikara)",
+    "file": "mg-MG.json"
+  },
+  {
+    "code": "mgh-MZ",
+    "label": "Makhuwa-Meetto (Moçambique)",
+    "file": "mgh-MZ.json"
+  },
+  {
+    "code": "mgo-CM",
+    "label": "Metaʼ (Cameroon)",
+    "file": "mgo-CM.json"
+  },
+  {
+    "code": "mi-NZ",
+    "label": "Māori (Aotearoa)",
+    "file": "mi-NZ.json"
   },
   {
     "code": "mk-MK",
@@ -400,9 +1910,24 @@
     "file": "mn-MN.json"
   },
   {
+    "code": "mni-Beng-IN",
+    "label": "মৈতৈলোন্ (বাংলা, ভারত)",
+    "file": "mni-Beng-IN.json"
+  },
+  {
     "code": "mr-IN",
     "label": "मराठी (भारत)",
     "file": "mr-IN.json"
+  },
+  {
+    "code": "ms-BN",
+    "label": "Bahasa Melayu (Brunei)",
+    "file": "ms-BN.json"
+  },
+  {
+    "code": "ms-ID",
+    "label": "Bahasa Melayu (Indonesia)",
+    "file": "ms-ID.json"
   },
   {
     "code": "ms-MY",
@@ -410,9 +1935,19 @@
     "file": "ms-MY.json"
   },
   {
+    "code": "ms-SG",
+    "label": "Bahasa Melayu (Singapura)",
+    "file": "ms-SG.json"
+  },
+  {
     "code": "mt-MT",
     "label": "Malti (Malta)",
     "file": "mt-MT.json"
+  },
+  {
+    "code": "mua-CM",
+    "label": "Mundang (Cameroon)",
+    "file": "mua-CM.json"
   },
   {
     "code": "my-MM",
@@ -420,9 +1955,44 @@
     "file": "my-MM.json"
   },
   {
+    "code": "mzn-IR",
+    "label": "مازِرونی (ایران)",
+    "file": "mzn-IR.json"
+  },
+  {
+    "code": "naq-NA",
+    "label": "Khoekhoegowab (Namibia)",
+    "file": "naq-NA.json"
+  },
+  {
     "code": "nb-NO",
     "label": "Norsk bokmål (Norge)",
     "file": "nb-NO.json"
+  },
+  {
+    "code": "nb-SJ",
+    "label": "Norsk bokmål (Svalbard og Jan Mayen)",
+    "file": "nb-SJ.json"
+  },
+  {
+    "code": "nd-ZW",
+    "label": "isiNdebele (Zimbabwe)",
+    "file": "nd-ZW.json"
+  },
+  {
+    "code": "nds-DE",
+    "label": "Neddersass’sch (Düütschland)",
+    "file": "nds-DE.json"
+  },
+  {
+    "code": "nds-NL",
+    "label": "Nedersaksies (Nederlaand)",
+    "file": "nds-NL.json"
+  },
+  {
+    "code": "ne-IN",
+    "label": "नेपाली (भारत)",
+    "file": "ne-IN.json"
   },
   {
     "code": "ne-NP",
@@ -430,9 +2000,24 @@
     "file": "ne-NP.json"
   },
   {
+    "code": "nl-AW",
+    "label": "Nederlands (Aruba)",
+    "file": "nl-AW.json"
+  },
+  {
     "code": "nl-BE",
     "label": "Nederlands (België)",
     "file": "nl-BE.json"
+  },
+  {
+    "code": "nl-BQ",
+    "label": "Nederlands (Caribisch Nederland)",
+    "file": "nl-BQ.json"
+  },
+  {
+    "code": "nl-CW",
+    "label": "Nederlands (Curaçao)",
+    "file": "nl-CW.json"
   },
   {
     "code": "nl-NL",
@@ -440,9 +2025,104 @@
     "file": "nl-NL.json"
   },
   {
+    "code": "nl-SR",
+    "label": "Nederlands (Suriname)",
+    "file": "nl-SR.json"
+  },
+  {
+    "code": "nl-SX",
+    "label": "Nederlands (Sint Maarten)",
+    "file": "nl-SX.json"
+  },
+  {
+    "code": "nmg-CM",
+    "label": "Kwasio (Cameroon)",
+    "file": "nmg-CM.json"
+  },
+  {
+    "code": "nn-NO",
+    "label": "Norsk nynorsk (Noreg)",
+    "file": "nn-NO.json"
+  },
+  {
+    "code": "nnh-CM",
+    "label": "Ngiemboon (Cameroon)",
+    "file": "nnh-CM.json"
+  },
+  {
+    "code": "no-NO",
+    "label": "Norsk (Norge)",
+    "file": "no-NO.json"
+  },
+  {
+    "code": "nus-SS",
+    "label": "Thok Nath (South Sudan)",
+    "file": "nus-SS.json"
+  },
+  {
+    "code": "nyn-UG",
+    "label": "Runyankore (Uganda)",
+    "file": "nyn-UG.json"
+  },
+  {
+    "code": "om-ET",
+    "label": "Oromoo (Itoophiyaa)",
+    "file": "om-ET.json"
+  },
+  {
+    "code": "om-KE",
+    "label": "Oromoo (Keeniyaa)",
+    "file": "om-KE.json"
+  },
+  {
+    "code": "or-IN",
+    "label": "ଓଡ଼ିଆ (ଭାରତ)",
+    "file": "or-IN.json"
+  },
+  {
+    "code": "os-GE",
+    "label": "Ирон (Гуырдзыстон)",
+    "file": "os-GE.json"
+  },
+  {
+    "code": "os-RU",
+    "label": "Ирон (Уӕрӕсе)",
+    "file": "os-RU.json"
+  },
+  {
+    "code": "pa-Arab-PK",
+    "label": "پنجابی (پاکستان)",
+    "file": "pa-Arab-PK.json"
+  },
+  {
+    "code": "pa-Guru-IN",
+    "label": "ਪੰਜਾਬੀ (ਭਾਰਤ)",
+    "file": "pa-Guru-IN.json"
+  },
+  {
+    "code": "pcm-NG",
+    "label": "Nigerian Pidgin (Nigeria)",
+    "file": "pcm-NG.json"
+  },
+  {
     "code": "pl-PL",
     "label": "Polski (Polska)",
     "file": "pl-PL.json"
+  },
+  {
+    "code": "ps-AF",
+    "label": "پښتو (افغانستان)",
+    "file": "ps-AF.json"
+  },
+  {
+    "code": "ps-PK",
+    "label": "پښتو (پاکستان)",
+    "file": "ps-PK.json"
+  },
+  {
+    "code": "pt-AO",
+    "label": "Português (Angola)",
+    "file": "pt-AO.json"
   },
   {
     "code": "pt-BR",
@@ -450,9 +2130,89 @@
     "file": "pt-BR.json"
   },
   {
+    "code": "pt-CH",
+    "label": "Português (Suíça)",
+    "file": "pt-CH.json"
+  },
+  {
+    "code": "pt-CV",
+    "label": "Português (Cabo Verde)",
+    "file": "pt-CV.json"
+  },
+  {
+    "code": "pt-GQ",
+    "label": "Português (Guiné Equatorial)",
+    "file": "pt-GQ.json"
+  },
+  {
+    "code": "pt-GW",
+    "label": "Português (Guiné-Bissau)",
+    "file": "pt-GW.json"
+  },
+  {
+    "code": "pt-LU",
+    "label": "Português (Luxemburgo)",
+    "file": "pt-LU.json"
+  },
+  {
+    "code": "pt-MO",
+    "label": "Português (Macau)",
+    "file": "pt-MO.json"
+  },
+  {
+    "code": "pt-MZ",
+    "label": "Português (Moçambique)",
+    "file": "pt-MZ.json"
+  },
+  {
     "code": "pt-PT",
     "label": "Português (Portugal)",
     "file": "pt-PT.json"
+  },
+  {
+    "code": "pt-ST",
+    "label": "Português (São Tomé e Príncipe)",
+    "file": "pt-ST.json"
+  },
+  {
+    "code": "pt-TL",
+    "label": "Português (Timor-Leste)",
+    "file": "pt-TL.json"
+  },
+  {
+    "code": "qu-BO",
+    "label": "Runasimi (Bolivia)",
+    "file": "qu-BO.json"
+  },
+  {
+    "code": "qu-EC",
+    "label": "Runasimi (Ecuador)",
+    "file": "qu-EC.json"
+  },
+  {
+    "code": "qu-PE",
+    "label": "Runasimi (Perú)",
+    "file": "qu-PE.json"
+  },
+  {
+    "code": "raj-IN",
+    "label": "राजस्थानी (भारत)",
+    "file": "raj-IN.json"
+  },
+  {
+    "code": "rm-CH",
+    "label": "Rumantsch (Svizra)",
+    "file": "rm-CH.json"
+  },
+  {
+    "code": "rn-BI",
+    "label": "Ikirundi (Uburundi)",
+    "file": "rn-BI.json"
+  },
+  {
+    "code": "ro-MD",
+    "label": "Română (Republica Moldova)",
+    "file": "ro-MD.json"
   },
   {
     "code": "ro-RO",
@@ -460,9 +2220,129 @@
     "file": "ro-RO.json"
   },
   {
+    "code": "rof-TZ",
+    "label": "Kihorombo (Tanzania)",
+    "file": "rof-TZ.json"
+  },
+  {
     "code": "ru",
     "label": "Русский",
     "file": "ru.json"
+  },
+  {
+    "code": "ru-BY",
+    "label": "Русский (Беларусь)",
+    "file": "ru-BY.json"
+  },
+  {
+    "code": "ru-KG",
+    "label": "Русский (Киргизия)",
+    "file": "ru-KG.json"
+  },
+  {
+    "code": "ru-KZ",
+    "label": "Русский (Казахстан)",
+    "file": "ru-KZ.json"
+  },
+  {
+    "code": "ru-MD",
+    "label": "Русский (Молдова)",
+    "file": "ru-MD.json"
+  },
+  {
+    "code": "ru-RU",
+    "label": "Русский (Россия)",
+    "file": "ru-RU.json"
+  },
+  {
+    "code": "ru-UA",
+    "label": "Русский (Украина)",
+    "file": "ru-UA.json"
+  },
+  {
+    "code": "rw-RW",
+    "label": "Kinyarwanda (Rwanda)",
+    "file": "rw-RW.json"
+  },
+  {
+    "code": "rwk-TZ",
+    "label": "Kiruwa (Tanzania)",
+    "file": "rwk-TZ.json"
+  },
+  {
+    "code": "sa-IN",
+    "label": "संस्कृतम् (भारत)",
+    "file": "sa-IN.json"
+  },
+  {
+    "code": "sah-RU",
+    "label": "Саха тыла (Россия)",
+    "file": "sah-RU.json"
+  },
+  {
+    "code": "saq-KE",
+    "label": "Samburu (Kenya)",
+    "file": "saq-KE.json"
+  },
+  {
+    "code": "sat-Olck-IN",
+    "label": "ᱥᱟᱱᱛᱟᱲᱤ (ᱚᱞ ᱪᱤᱠᱤ, ᱥᱤᱧᱚᱛ)",
+    "file": "sat-Olck-IN.json"
+  },
+  {
+    "code": "sbp-TZ",
+    "label": "Ishisangu (Tanzania)",
+    "file": "sbp-TZ.json"
+  },
+  {
+    "code": "sd-Arab-PK",
+    "label": "سنڌي (پاکستان)",
+    "file": "sd-Arab-PK.json"
+  },
+  {
+    "code": "sd-Deva-IN",
+    "label": "सिन्धी (भारत)",
+    "file": "sd-Deva-IN.json"
+  },
+  {
+    "code": "se-FI",
+    "label": "Davvisámegiella (Suopma)",
+    "file": "se-FI.json"
+  },
+  {
+    "code": "se-NO",
+    "label": "Davvisámegiella (Norga)",
+    "file": "se-NO.json"
+  },
+  {
+    "code": "se-SE",
+    "label": "Davvisámegiella (Ruoŧŧa)",
+    "file": "se-SE.json"
+  },
+  {
+    "code": "seh-MZ",
+    "label": "Sena (Moçambique)",
+    "file": "seh-MZ.json"
+  },
+  {
+    "code": "ses-ML",
+    "label": "Koyraboro Senni (Mali)",
+    "file": "ses-ML.json"
+  },
+  {
+    "code": "sg-CF",
+    "label": "Sängö (Ködörösêse tî Bêafrîka)",
+    "file": "sg-CF.json"
+  },
+  {
+    "code": "shi-Latn-MA",
+    "label": "Tachelhit (Latin, Morocco)",
+    "file": "shi-Latn-MA.json"
+  },
+  {
+    "code": "shi-Tfng-MA",
+    "label": "ⵜⴰⵛⵍⵃⵉⵜ (ⵜⴼⵉⵏⴰⵖ, Morocco)",
+    "file": "shi-Tfng-MA.json"
   },
   {
     "code": "si-LK",
@@ -480,9 +2360,59 @@
     "file": "sl-SI.json"
   },
   {
+    "code": "smn-FI",
+    "label": "Anarâškielâ (Suomâ)",
+    "file": "smn-FI.json"
+  },
+  {
+    "code": "sn-ZW",
+    "label": "chiShona (Zimbabwe)",
+    "file": "sn-ZW.json"
+  },
+  {
+    "code": "so-DJ",
+    "label": "Soomaali (Jabuuti)",
+    "file": "so-DJ.json"
+  },
+  {
+    "code": "so-ET",
+    "label": "Soomaali (Itoobiya)",
+    "file": "so-ET.json"
+  },
+  {
+    "code": "so-KE",
+    "label": "Soomaali (Kenya)",
+    "file": "so-KE.json"
+  },
+  {
+    "code": "so-SO",
+    "label": "Soomaali (Soomaaliya)",
+    "file": "so-SO.json"
+  },
+  {
     "code": "sq-AL",
     "label": "Shqip (Shqipëri)",
     "file": "sq-AL.json"
+  },
+  {
+    "code": "sq-MK",
+    "label": "Shqip (Maqedonia e Veriut)",
+    "file": "sq-MK.json"
+  },
+  {
+    "code": "sq-XK",
+    "label": "Shqip (Kosovë)",
+    "file": "sq-XK.json"
+  },
+  {
+    "code": "sr-Cyrl-BA",
+    "label": "Српски (ћирилица, БиХ)",
+    "file": "sr-Cyrl-BA.json"
+  },
+  {
+    "code": "sr-Cyrl-ME",
+    "label": "Српски (ћирилица, Црна Гора)",
+    "file": "sr-Cyrl-ME.json"
   },
   {
     "code": "sr-Cyrl-RS",
@@ -490,9 +2420,44 @@
     "file": "sr-Cyrl-RS.json"
   },
   {
+    "code": "sr-Cyrl-XK",
+    "label": "Српски (ћирилица, Косово)",
+    "file": "sr-Cyrl-XK.json"
+  },
+  {
+    "code": "sr-Latn-BA",
+    "label": "Srpski (latinica, BiH)",
+    "file": "sr-Latn-BA.json"
+  },
+  {
+    "code": "sr-Latn-ME",
+    "label": "Srpski (latinica, Crna Gora)",
+    "file": "sr-Latn-ME.json"
+  },
+  {
     "code": "sr-Latn-RS",
     "label": "Srpski (latinica, Srbija)",
     "file": "sr-Latn-RS.json"
+  },
+  {
+    "code": "sr-Latn-XK",
+    "label": "Srpski (latinica, Kosovo)",
+    "file": "sr-Latn-XK.json"
+  },
+  {
+    "code": "su-Latn-ID",
+    "label": "Basa Sunda (Latin, Indonesia)",
+    "file": "su-Latn-ID.json"
+  },
+  {
+    "code": "sv-AX",
+    "label": "Svenska (Åland)",
+    "file": "sv-AX.json"
+  },
+  {
+    "code": "sv-FI",
+    "label": "Svenska (Finland)",
+    "file": "sv-FI.json"
   },
   {
     "code": "sv-SE",
@@ -500,9 +2465,24 @@
     "file": "sv-SE.json"
   },
   {
+    "code": "sw-CD",
+    "label": "Kiswahili (Congo-Kinshasa)",
+    "file": "sw-CD.json"
+  },
+  {
     "code": "sw-KE",
     "label": "Kiswahili (Kenya)",
     "file": "sw-KE.json"
+  },
+  {
+    "code": "sw-TZ",
+    "label": "Kiswahili (Tanzania)",
+    "file": "sw-TZ.json"
+  },
+  {
+    "code": "sw-UG",
+    "label": "Kiswahili (Uganda)",
+    "file": "sw-UG.json"
   },
   {
     "code": "ta-IN",
@@ -510,9 +2490,39 @@
     "file": "ta-IN.json"
   },
   {
+    "code": "ta-LK",
+    "label": "தமிழ் (இலங்கை)",
+    "file": "ta-LK.json"
+  },
+  {
+    "code": "ta-MY",
+    "label": "தமிழ் (மலேசியா)",
+    "file": "ta-MY.json"
+  },
+  {
+    "code": "ta-SG",
+    "label": "தமிழ் (சிங்கப்பூர்)",
+    "file": "ta-SG.json"
+  },
+  {
     "code": "te-IN",
     "label": "తెలుగు (భారతదేశం)",
     "file": "te-IN.json"
+  },
+  {
+    "code": "teo-KE",
+    "label": "Kiteso (Kenya)",
+    "file": "teo-KE.json"
+  },
+  {
+    "code": "teo-UG",
+    "label": "Kiteso (Uganda)",
+    "file": "teo-UG.json"
+  },
+  {
+    "code": "tg-TJ",
+    "label": "Тоҷикӣ (Тоҷикистон)",
+    "file": "tg-TJ.json"
   },
   {
     "code": "th-TH",
@@ -520,9 +2530,54 @@
     "file": "th-TH.json"
   },
   {
+    "code": "ti-ER",
+    "label": "ትግርኛ (ኤርትራ)",
+    "file": "ti-ER.json"
+  },
+  {
+    "code": "ti-ET",
+    "label": "ትግርኛ (ኢትዮጵያ)",
+    "file": "ti-ET.json"
+  },
+  {
+    "code": "tk-TM",
+    "label": "Türkmençe (Türkmenistan)",
+    "file": "tk-TM.json"
+  },
+  {
+    "code": "to-TO",
+    "label": "Lea fakatonga (Tonga)",
+    "file": "to-TO.json"
+  },
+  {
+    "code": "tr-CY",
+    "label": "Türkçe (Kıbrıs)",
+    "file": "tr-CY.json"
+  },
+  {
     "code": "tr-TR",
     "label": "Türkçe (Türkiye)",
     "file": "tr-TR.json"
+  },
+  {
+    "code": "tt-RU",
+    "label": "Татар (Россия)",
+    "file": "tt-RU.json"
+  },
+  {
+    "code": "twq-NE",
+    "label": "Tasawaq (Niger)",
+    "file": "twq-NE.json"
+  },
+  {
+    "code": "tzm-MA",
+    "label": "Tamaziɣt (Maroc)",
+    "file": "tzm-MA.json"
+  },
+  {
+    "code": "ug-CN",
+    "label": "ئۇيغۇرچە (جۇڭگو)",
+    "file": "ug-CN.json"
   },
   {
     "code": "uk-UA",
@@ -530,9 +2585,24 @@
     "file": "uk-UA.json"
   },
   {
+    "code": "ur-IN",
+    "label": "اردو (بھارت)",
+    "file": "ur-IN.json"
+  },
+  {
     "code": "ur-PK",
     "label": "اردو (پاکستان)",
     "file": "ur-PK.json"
+  },
+  {
+    "code": "uz-Arab-AF",
+    "label": "اوزبیک (افغانستان)",
+    "file": "uz-Arab-AF.json"
+  },
+  {
+    "code": "uz-Cyrl-UZ",
+    "label": "Ўзбекча (Кирилл, Ўзбекистон)",
+    "file": "uz-Cyrl-UZ.json"
   },
   {
     "code": "uz-Latn-UZ",
@@ -540,9 +2610,84 @@
     "file": "uz-Latn-UZ.json"
   },
   {
+    "code": "vai-Latn-LR",
+    "label": "Vai (Latin, Liberia)",
+    "file": "vai-Latn-LR.json"
+  },
+  {
+    "code": "vai-Vaii-LR",
+    "label": "ꕙꔤ (Vai, Liberia)",
+    "file": "vai-Vaii-LR.json"
+  },
+  {
     "code": "vi-VN",
     "label": "Tiếng Việt (Việt Nam)",
     "file": "vi-VN.json"
+  },
+  {
+    "code": "vo-001",
+    "label": "Volapük (World)",
+    "file": "vo-001.json"
+  },
+  {
+    "code": "vun-TZ",
+    "label": "Kivunjo (Tanzania)",
+    "file": "vun-TZ.json"
+  },
+  {
+    "code": "wae-CH",
+    "label": "Walser (Schweiz)",
+    "file": "wae-CH.json"
+  },
+  {
+    "code": "wo-SN",
+    "label": "Wolof (Sénégal)",
+    "file": "wo-SN.json"
+  },
+  {
+    "code": "xh-ZA",
+    "label": "isiXhosa (South Africa)",
+    "file": "xh-ZA.json"
+  },
+  {
+    "code": "xog-UG",
+    "label": "Soga (Uganda)",
+    "file": "xog-UG.json"
+  },
+  {
+    "code": "yav-CM",
+    "label": "Yangben (Cameroon)",
+    "file": "yav-CM.json"
+  },
+  {
+    "code": "yi-001",
+    "label": "ייִדיש (וועלט)",
+    "file": "yi-001.json"
+  },
+  {
+    "code": "yo-BJ",
+    "label": "Èdè Yorùbá (Bẹ̀nẹ̀)",
+    "file": "yo-BJ.json"
+  },
+  {
+    "code": "yo-NG",
+    "label": "Èdè Yorùbá (Nàìjíríà)",
+    "file": "yo-NG.json"
+  },
+  {
+    "code": "yue-Hans-CN",
+    "label": "粤语 (简体，中国)",
+    "file": "yue-Hans-CN.json"
+  },
+  {
+    "code": "yue-Hant-HK",
+    "label": "粵語 (繁體，香港)",
+    "file": "yue-Hant-HK.json"
+  },
+  {
+    "code": "zgh-MA",
+    "label": "ⵜⴰⵎⴰⵣⵉⵖⵜ (ⵍⵎⵖⵔⵉⴱ)",
+    "file": "zgh-MA.json"
   },
   {
     "code": "zh-CN",
@@ -550,18 +2695,53 @@
     "file": "zh-CN.json"
   },
   {
+    "code": "zh-Hans-CN",
+    "label": "简体中文（中国）",
+    "file": "zh-Hans-CN.json"
+  },
+  {
+    "code": "zh-Hans-HK",
+    "label": "简体中文（香港）",
+    "file": "zh-Hans-HK.json"
+  },
+  {
+    "code": "zh-Hans-MO",
+    "label": "简体中文（澳门）",
+    "file": "zh-Hans-MO.json"
+  },
+  {
+    "code": "zh-Hans-SG",
+    "label": "简体中文（新加坡）",
+    "file": "zh-Hans-SG.json"
+  },
+  {
+    "code": "zh-Hant-HK",
+    "label": "繁體中文（香港）",
+    "file": "zh-Hant-HK.json"
+  },
+  {
+    "code": "zh-Hant-MO",
+    "label": "繁體中文（澳門）",
+    "file": "zh-Hant-MO.json"
+  },
+  {
+    "code": "zh-Hant-TW",
+    "label": "繁體中文（台灣）",
+    "file": "zh-Hant-TW.json"
+  },
+  {
     "code": "zh-HK",
     "label": "繁體中文（香港）",
     "file": "zh-HK.json"
   },
   {
-    "code": "zh-MO",
-    "label": "繁體中文（澳門）",
-    "file": "zh-MO.json"
-  },
-  {
     "code": "zh-TW",
     "label": "繁體中文（台灣）",
     "file": "zh-TW.json"
+  },
+  {
+    "code": "zu-ZA",
+    "label": "isiZulu (South Africa)",
+    "file": "zu-ZA.json"
   }
 ]
