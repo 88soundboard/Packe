@@ -14,13 +14,12 @@
   "resetData": "データをリセット",
   "searchPlaceholder": "パッドを検索...",
   "assignedCount": "割り当て",
-
+  "profileDefault": "デフォルト",
   "menuPlay": "再生",
   "menuAssign": "ファイルを割り当て",
   "menuUrl": "URLから読み込み",
   "menuSettings": "詳細設定",
   "menuUnassign": "割り当て解除",
-
   "panelTitle": "パッド設定",
   "displayName": "表示名",
   "displayNamePlaceholder": "表示名（省略時はファイル名）",
@@ -29,7 +28,6 @@
   "fadeIn": "フェードイン (ms)",
   "fadeOut": "フェードアウト (ms)",
   "color": "パッドカラー",
-
   "toastAssigned": "を割り当てました",
   "toastUrlLoaded": "URLから読み込みました",
   "toastUnassigned": "割り当てを解除しました",

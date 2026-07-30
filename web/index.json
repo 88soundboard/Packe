@@ -345,11 +345,6 @@
     "name": "Taita (Kenya)"
   },
   {
-    "code": "de",
-    "file": "german.json",
-    "name": "Deutsch"
-  },
-  {
     "code": "de-AT",
     "file": "de-AT.json",
     "name": "Deutsch (Österreich)"
@@ -438,11 +433,6 @@
     "code": "el-GR",
     "file": "el-GR.json",
     "name": "Ελληνικά (Ελλάδα)"
-  },
-  {
-    "code": "en",
-    "file": "english.json",
-    "name": "English (US)"
   },
   {
     "code": "en-001",
@@ -1623,11 +1613,6 @@
     "code": "it-VA",
     "file": "it-VA.json",
     "name": "Italiano (Città del Vaticano)"
-  },
-  {
-    "code": "ja",
-    "file": "japan.json",
-    "name": "日本語"
   },
   {
     "code": "ja-JP",
